@@ -1,1 +1,7 @@
-home page
+-Home
+-About
+-Contacts
+-Services
+-Products
+-FAQ
+-Testimonials
